@@ -1,2 +1,1 @@
-  mayanghua/instock:latest
-
+library/mariadb:latest
